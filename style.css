@@ -1,0 +1,257 @@
+body {
+  color: #3a4652;
+  margin: 0;
+  background-color: #ddd;
+  font-family: Helvetica, nimbussansl, liberationsans, freesans, clean, sans-serif;
+}
+
+h1 {
+  font-size: 51px;
+}
+h2 {
+  font-size: 26px;
+}
+h3 {
+  font-size: 23px;
+}
+h4 {
+  font-size: 20px;
+}
+
+.bg-img {
+  margin: 0 auto;
+  position: fixed;
+  /*width: 110%;*/
+  width: 75%;
+  max-width: 1084px;
+  min-width: 650px;
+  /*max-width: 110%;*/
+  height: 100%;
+  top: 50%;
+  left: 50%;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+  opacity: 0.3;
+  background-image: url('./images/background.jpg');
+  background-size: cover;
+  /*background-position: center center;*/
+  background-repeat: no-repeat;
+}
+
+.title-container {
+  margin: 0 auto;
+  width: 650px;
+  /*max-width: 45%;*/
+  /*min-width: 650px;*/
+}
+
+.container {
+  width: 65%;
+  max-width: 980px;
+  min-width: 650px;
+  padding-bottom: 20px; 
+  position: relative;
+  margin: 0 auto;
+  padding-top: 40px;
+  display: block;
+}
+
+.title {
+  max-width: 75%;
+  min-width: 650px;
+  width: 1084px;
+  margin: 0 auto;
+  /*height: 70px;*/
+}
+
+.title img {
+  width: 100%;
+}
+
+.container a{
+  color: #55a6a2;
+}
+
+.container a:hover {
+  color: #55a6a2;
+}
+
+.ticket ul {
+  padding: 0 12px 0 12px;
+  list-style: none;
+}
+
+.reservation .reservation_btn {
+  display: inline-block;
+  padding: 0.3em 1em;
+  text-decoration: none;
+  color: #55a6a2;
+  border: solid 2px #55a6a2;
+  border-radius: 3px;
+  transition: .25s;
+}
+
+.reservation .reservation_btn:hover {
+  background: #55a6a2;
+  color: white;
+}
+
+
+.artists ul {
+  padding: 0 12px 0 12px;
+}
+.artists ul li {
+  font-weight: bold;
+  list-style: none;
+  font-size: 24px;
+  padding: 8px;
+}
+
+.gmap {
+  margin: 0 auto;
+  /*width: 100%;*/
+  height: 420px;
+}
+
+#map {
+  margin: 20px 0 50px 0;
+  /*width: 100%;*/
+  height: 480px;
+}
+
+.fa {
+  color: #3a4652;
+}
+
+.social_link {
+  margin-bottom: 40px;
+}
+
+@media screen and (max-width: 480px) {
+
+  .bg-img {
+    
+    
+    /*width: 110%;*/
+    width: 75%;
+    max-width: 320px;
+    min-width: 320px;
+    /*max-width: 110%;*/
+    height: 100%;
+  }
+
+  .title-container {
+    margin: 0 auto;
+    width: 320px;
+    /*max-width: 45%;*/
+    /*min-width: 650px;*/
+  }
+
+  .title {
+    max-width: 75%;
+    min-width: 320px;
+    width: 320px;
+    margin: 0 auto;
+    /*height: 70px;*/
+  }
+
+  .container {
+    overflow: hidden;
+    width: 100%;
+    
+    max-width: 320px;
+    min-width: 320px;
+  }
+
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 22px;
+  }
+  h4 {
+    font-size: 16px;
+  }
+
+
+  .bg-img {
+    width: 100%;
+    max-width:380%;
+    height: 100%;
+    /*left: 50%;*/
+  }
+
+  .container {
+    width: 320px;
+    max-width: 320px;
+    padding-bottom: 60px;
+    overflow-wrap: break-word;  
+  }
+
+  .container .title {
+    margin-top: 280px;
+    height: 110px;
+  }
+
+
+  .ticket ul {
+    padding: 0 12px 0 12px;
+  }
+
+  .reservation .reservation_btn {
+    display: inline-block;
+    padding: 0.3em 1em;
+    text-decoration: none;
+    color: #c96a71;
+    border: solid 2px #c96a71;
+    border-radius: 3px;
+    transition: .25s;
+  }
+
+
+  .artists ul {
+    max-width: 320px;
+    padding: 0 12px 0 12px;
+  }
+  .artists ul li {
+    list-style: none;
+    font-size: 24px;
+    padding: 12px 0px 12px 0px;
+  }
+
+  .gmap {
+    margin: 0 auto;
+    /*width: 100%;*/
+    height: 100%;
+  }
+
+
+  #map {
+    height: 480px;
+  }
+
+  .about_algorave {
+    padding-top: 20px;
+    max-width: 320px;
+  }
+  .about_algorave p{
+    font-size: 18px;
+  }
+  .about_algorave a {
+    padding: 20px 20px 20px 0px;
+  }
+
+  .social_link {
+    padding-top: 40px;
+    width: 1280px;
+    max-width: 980px;
+    height: 280px; 
+  }
+
+  .social_link a {
+    padding: 20px 20px 20px 0px;
+  }
+}
