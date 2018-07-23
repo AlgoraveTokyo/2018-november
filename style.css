@@ -1,5 +1,5 @@
 body {
-  color: #3a4652;
+  color: #fff;
   margin: 0;
   background-color: #ddd;
   font-family: Helvetica, nimbussansl, liberationsans, freesans, clean, sans-serif;
@@ -31,7 +31,7 @@ h4 {
   left: 50%;
   z-index: -1;
   transform: translate(-50%, -50%);
-  opacity: 0.3;
+  opacity: 0.9;
   background-image: url('./images/background.jpg');
   background-size: cover;
   /*background-position: center center;*/
@@ -92,7 +92,7 @@ h4 {
 }
 
 .reservation .reservation_btn:hover {
-  background: #55a6a2;
+  background: #fff;
   color: white;
 }
 
@@ -120,7 +120,7 @@ h4 {
 }
 
 .fa {
-  color: #3a4652;
+  color: #ffffff;
 }
 
 .social_link {
@@ -205,8 +205,8 @@ h4 {
     display: inline-block;
     padding: 0.3em 1em;
     text-decoration: none;
-    color: #c96a71;
-    border: solid 2px #c96a71;
+    color: #ffffff;
+    border: solid 2px #ffffff;
     border-radius: 3px;
     transition: .25s;
   }
