@@ -7,6 +7,7 @@ U25 \1,000 + 1D
 
 lineup:
 Akihiro Kubota
+g200kg
 Hexler
 HydrKlank
 Kenichi Kanai
