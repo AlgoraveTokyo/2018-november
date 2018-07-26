@@ -7,12 +7,11 @@ U25 \1,000 + 1D
 
 lineup:
 Akihiro Kubota
-felippe
 Hexler
 HydrKlank
 Kenichi Kanai
 moxus
-Naoki Nomoto
+Naoki Nomoto + Stéphane Shibatsuji-Perrin
 okachiho
 Renick Bell
 Scott Allen
