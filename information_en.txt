@@ -38,7 +38,7 @@
   - run by Alex McLean and others
 
   <Connected Lecture/Telecoding Demonstration with Sapporo-people>
-  - time:13:00-16:00
+  - time:13:00 - 16:00
 
 
 [Advanced TidalCycles Workshop at Tokyo 23 Words]
