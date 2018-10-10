@@ -1,62 +1,61 @@
-~ Osaka TOPLAP/Algorave/Tidal events ~
+Osaka TOPLAP/Algorave/Tidal events
 
 [Algorave Osaka]
-- 日付: 2018年 11/10 (土)
-- 時間: open 19:00 - close 23:30
-- 会場: Club Stomp
-- チケット: 前売り / 当日 / U25割引
+- date: 10 Nov. 2018 (Sat.)
+- time: 19:00 - 23:30
+- venue: Club Stomp (http://club-stomp.com)
+- performers:
 
 
 [Advanced TidalCycles workshop Osaka]
-- 日付: 2018年 11/11(日))
-- 時間: 開始 13:00 - 終了 18:00
-- 会場: not fixed
-- モデレーター: Alex McLean その他
+- date: 11 Nov. 2018 (Sun.)
+- time: 13:00 - 18:00
+- venule: not fixed
+- run by Alex McLean and others
 
 
 [Woman's workshop Osaka]
-- 日付: 2018年 11/11(日)
-- 時間: 開始 13:00 - 終了 18:00
-- 会場: not fixed
-- モデレーター: Joanne Armitage / Lucy Cheeseman / okachiho
+- date: 11 Nov. 2018 (Sun.)
+- time: 13:00 - 18:00
+- venule: not fixed
+- run by Joanne Armitage / Lucy Cheeseman / okachiho
 
 
-~ Tokyo TOPLAP/Algorave/Tidal events ~
+Tokyo TOPLAP/Algorave/Tidal events
 
 [Live coding workshop for women/non-binary at Tokyo Tama Art Uni. #1]
-- 日付: 2018年 11/14(水)
-- 時間: 開始 13:00 - 終了 16:00
-- 会場: 多摩美術大学 (八王子キャンパス 情報デザイン棟 25-205教室)
-- モデレーター: Joanne Armitage / Lucy Cheeseman / okachiho
+- date: 14 Nov. 2018 (Wed.)
+- time: 13:00 - 16:00
+- venue: Tama Art University (25-205 room of the Information Design Building at Tamabi Hachioji-campus)
+- run by joanne, lucy, and okachiho
 
 
 [Workshop at Tokyo Tama Art Uni. #2]
-- 日付: 2018年 11/14(木)
-- 会場: 多摩美術大学 (八王子キャンパス 情報デザイン棟 25-205教室)
+- date: 15 Nov. 2018 (Thu.)
+- venue: Tama Art University (25-205 room of the Information Design Building at Tamabi Hachioji-campus)
 
   <TidalCycles workshop>
-  - 時間: 開始 13:00 - 終了 16:00
-  - モデレーター: Alex McLean その他
+  - time:13:00 - 16:00
+  - run by alex and others
 
   <Connected Lecture/Telecoding Demonstration with Sapporo-people>
-  - 時間: 開始 13:00 - 終了 16:00
-	
+  - time:13:00-16:00
+
 
 [Advanced TidalCycles Workshop at Tokyo 23 Words]
-- 日付: 17 Nov. 2018 (Sat.)
-- 時間: 開始 13:00 - 終了 18:00
-- 会場: Upgrade English in Kanda (or larger space)
-- モデレーター: Alex McLean
+- date: 17 Nov. 2018 (Sat.)
+- time: 13:00 - 18:00
+- venue: Upgrade English in Kanda (or larger space)
+- run by: alex
 
 
 [Live coding workshop for women/non-binary in Tokyo 23 Wards]
-- 日付: 17 Nov. 2018 (Sat.)
-- 時間: 開始 13:00 - 終了 18:00
-- 会場: 朝日新聞メディアラボ
+- date: 17 Nov. 2018 (Sat.)
+- time: 13:00 - 18:00
+- venue: Asahi Shinbun Media Lab.
 
 
 [Algorave Tokyo x NxPC.Lab (IAMAS)]
-- 日付: 18 Nov. 2018 (Sun.)
-- 時間: open 18:00 - close 23:00
-- 会場: Circus Tokyo
-- チケット: 前売り / 当日 / U25割引
+- date: 18 Nov. 2018 (Sun.)
+- time: 18:00 - 23:00
+- venu: Circus Tokyo (http://circus-tokyo.jp)
