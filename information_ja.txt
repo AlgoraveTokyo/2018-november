@@ -1,0 +1,61 @@
+Osaka TOPLAP/Algorave/Tidal events
+
+[Algorave Osaka]
+- date: 10 Nov. 2018 (Sat.)
+- time: 19:00 - 23:30
+- venue: Club Stomp
+- performers:
+
+
+[Advanced TidalCycles workshop Osaka]
+- date: 11 Nov. 2018 (Sun.)
+- time: 13:00 - 18:00
+- venule: not fixed
+- run by Alex McLean and others
+
+
+[Woman's workshop Osaka]
+- date: 11 Nov. 2018 (Sun.)
+- time: 13:00 - 18:00
+- venule: not fixed
+- run by Joanne Armitage / Lucy Cheeseman / okachiho
+
+
+Tokyo TOPLAP/Algorave/Tidal events
+
+[Live coding workshop for women/non-binary at Tokyo Tama Art Uni. #1]
+- date: 14 Nov. 2018 (Wed.)
+- time: 13:00 - 16:00
+- venue: Tama Art University (25-205 room of the Information Design Building at Tamabi Hachioji-campus)
+- run by joanne, lucy, and okachiho
+
+
+[Workshop at Tokyo Tama Art Uni. #2]
+- date: 15 Nov. 2018 (Thu.)
+- venue: Tama Art University (25-205 room of the Information Design Building at Tamabi Hachioji-campus)
+
+  <TidalCycles workshop>
+  - time:13:00 - 16:00
+  - run by alex and others
+
+  <Connected Lecture/Telecoding Demonstration with Sapporo-people>
+  - time:13:00-16:00
+
+
+[Advanced TidalCycles Workshop at Tokyo 23 Words]
+- date: 17 Nov. 2018 (Sat.)
+- time: 13:00 - 18:00
+- venue: Upgrade English in Kanda (or larger space)
+- run by: alex
+
+
+[Live coding workshop for women/non-binary in Tokyo 23 Wards]
+- date: 17 Nov. 2018 (Sat.)
+- time: 13:00 - 18:00
+- venue: Asahi Shinbun Media Lab.
+
+
+[Algorave Tokyo x NxPC.Lab (IAMAS)]
+- date: 18 Nov. 2018 (Sun.)
+- time: 18:00 - 23:00
+- venu: Circus Tokyo

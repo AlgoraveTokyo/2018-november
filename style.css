@@ -1,7 +1,7 @@
 body {
-  color: #fff;
+  color: #27387B;
   margin: 0;
-  background-color: #ddd;
+  background-color: #fff;
   font-family: Helvetica, nimbussansl, liberationsans, freesans, clean, sans-serif;
 }
 
@@ -19,23 +19,30 @@ h4 {
 }
 
 .bg-img {
+
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 400px 0 400px 800px;
+  border-color: transparent transparent transparent #d9d9d9;
+  
   margin: 0 auto;
   position: fixed;
-  /*width: 110%;*/
-  width: 75%;
-  max-width: 1084px;
-  min-width: 650px;
+  /* width: 110%; */
+  /* width: 75%; */
+  /* max-width: 1084px; */
+  /* min-width: 650px; */
   /*max-width: 110%;*/
-  height: 100%;
-  top: 50%;
-  left: 50%;
+  /* height: 100%; */
+  /* top: 50%; */
+  /* left: 50%; */
   z-index: -1;
-  transform: translate(-50%, -50%);
-  opacity: 0.9;
-  background-image: url('./images/background.jpg');
-  background-size: cover;
+  /* transform: translate(-50%, -50%); */
+  /* opacity: 0.9; */
+  /* background-image: url('./images/background.jpg'); */
+  /* background-size: cover; */
   /*background-position: center center;*/
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
 }
 
 .title-container {
