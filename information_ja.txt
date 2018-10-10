@@ -27,7 +27,7 @@ Tokyo TOPLAP/Algorave/Tidal events
 - date: 14 Nov. 2018 (Wed.)
 - time: 13:00 - 16:00
 - venue: Tama Art University (25-205 room of the Information Design Building at Tamabi Hachioji-campus)
-- run by joanne, lucy, and okachiho
+- run by Joanne Armitage / Lucy Cheeseman / okachiho
 
 
 [Workshop at Tokyo Tama Art Uni. #2]
@@ -36,7 +36,7 @@ Tokyo TOPLAP/Algorave/Tidal events
 
   <TidalCycles workshop>
   - time:13:00 - 16:00
-  - run by alex and others
+  - run by Alex McLean and others
 
   <Connected Lecture/Telecoding Demonstration with Sapporo-people>
   - time:13:00-16:00
@@ -46,7 +46,7 @@ Tokyo TOPLAP/Algorave/Tidal events
 - date: 17 Nov. 2018 (Sat.)
 - time: 13:00 - 18:00
 - venue: Upgrade English in Kanda (or larger space)
-- run by: alex
+- run by Alex McLean
 
 
 [Live coding workshop for women/non-binary in Tokyo 23 Wards]
