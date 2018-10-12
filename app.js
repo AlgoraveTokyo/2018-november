@@ -15,13 +15,13 @@ for (var i = 0; i< 10; i++) {
   for (var j = 0; j< 10; j++) {
     var new_triangle = initial.cloneNode(false)
     new_triangle.style.transform = 
-      "translateX(" + i * 800 + "px)" +
-      "translateY(" + j * 800 + "px)" ;
+      "translateX(" + i * 779 + "px)" +
+      "translateY(" + j * 900 + "px)" ;
       bgTargetEl.appendChild(new_triangle);
   }
 }
 
 function triangleWave(i) {
-  var m = 600;
+  var m = 400;
   return m - Math.abs((i % (2 * m) - m));
 }
