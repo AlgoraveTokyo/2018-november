@@ -13,7 +13,7 @@ var initial = document.getElementById("bg_triangle");
 
 for (var i = 0; i< 10; i++) {
   for (var j = 0; j< 10; j++) {
-    var new_triangle = initial.cloneNode(false)
+    var new_triangle = initial.cloneNode(true)
     new_triangle.style.transform = 
       "translateX(" + i * 779 + "px)" +
       "translateY(" + j * 900 + "px)" ;
