@@ -96,6 +96,11 @@ h4 {
   list-style: none;
 }
 
+.content ul {
+  padding: 0 12px 0 12px;
+  list-style: none;
+}
+
 .reservation .reservation_btn {
   display: inline-block;
   padding: 0.3em 1em;
