@@ -223,12 +223,6 @@ h4 {
     overflow-wrap: break-word;  
   }
 
-  .container .title {
-    margin-top: 280px;
-    height: 110px;
-  }
-
-
   .ticket ul {
     padding: 0 12px 0 12px;
   }
