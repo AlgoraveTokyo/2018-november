@@ -4,7 +4,7 @@
 - date: 10 Nov. 2018 (Sat.)
 - time: 19:00 - 23:30
 - venue: Club Stomp (http://club-stomp.com)
-- ticket: Adv. / Door / U25
+- ticket: Adv. \1500 + 1D / Door \2000 + 1D / U25 \1000 + 1D
 
 [Advanced TidalCycles workshop Osaka]
 - date: 11 Nov. 2018 (Sun.)
@@ -31,14 +31,15 @@
 
 [Workshop at Tokyo Tama Art Uni. #2]
 - date: 15 Nov. 2018 (Thu.)
+- time: 13:00 - 16:00
 - venue: Tama Art University (25-205 room of the Information Design Building at Tamabi Hachioji-campus)
+- run by Alex McLean and others
+  
 
-  <TidalCycles workshop>
-  - time:13:00 - 16:00
-  - run by Alex McLean and others
-
-  <Connected Lecture/Telecoding Demonstration with Sapporo-people>
-  - time:18:00 - 19:30
+[Sapporo - Tokyo Live Coding Summit]
+- time:18:00 - 19:30
+- venue(Tokyo): Tama Art University (25-205 room of the Information Design Building at Tamabi Hachioji-campus)
+- venue(Sapporo): Terrace keikaku (Akarenga Terrace 5F Sapporo-Mitsui JP Bld. 1 N2-W4 Chuoku Sapporo)
 
 
 [Advanced TidalCycles Workshop at Tokyo 23 Words]
@@ -58,4 +59,4 @@
 - date: 18 Nov. 2018 (Sun.)
 - time: 18:00 - 23:00
 - venu: Circus Tokyo (http://circus-tokyo.jp)
-- ticket: Adv. / Door / U25
+- ticket: Adv. \2000 + 1D / Door \2500 + 1D / U25 \1500 + 1D
