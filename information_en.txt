@@ -2,7 +2,7 @@
 
 [Algorave Osaka]
 - date: 10 Nov. 2018 (Sat.)
-- time: 19:00 - 23:30
+- time: 18:30 - 23:00
 - venue: Club Stomp (http://club-stomp.com)
 - ticket: Adv. \1500 + 1D / Door \2000 + 1D / U25 \1000 + 1D
 
