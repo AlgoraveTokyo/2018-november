@@ -1,3 +1,7 @@
+~ 序文 ~
+
+
+
 ~ Osaka TOPLAP/Algorave/Tidal events ~
 
 [Algorave Osaka]
@@ -10,14 +14,14 @@
 [Advanced TidalCycles workshop Osaka]
 - 日付: 2018年 11/11(日)
 - 時間: 開始 13:00 - 終了 18:00
-- 会場: not fixed
+- 会場: environment 0g (大阪市西区南堀江3-6-1 西大阪ビルB1F) 
 - モデレーター: Alex McLean その他
 
 
 [Woman's workshop Osaka]
 - 日付: 2018年 11/11(日)
 - 時間: 開始 13:00 - 終了 18:00
-- 会場: not fixed
+- 会場: STARRYWORKS inc. (大阪市中央区谷町4-3-7)
 - モデレーター: Joanne Armitage / Lucy Cheeseman / okachiho
 
 
@@ -26,7 +30,7 @@
 [Live coding workshop for women/non-binary at Tokyo Tama Art Uni. #1]
 - 日付: 2018年 11/14(水)
 - 時間: 開始 13:00 - 終了 16:00
-- 会場: 多摩美術大学 (八王子キャンパス 情報デザイン棟 25-205教室) 
+- 会場: 多摩美術大学 (八王子キャンパス 情報デザイン棟 25-205教室, 東京都八王子市鑓水2-1723) 
 - モデレーター: Joanne Armitage / Lucy Cheeseman / okachiho
 
 
@@ -47,14 +51,14 @@
 [Advanced TidalCycles Workshop at Tokyo 23 Words]
 - 日付: 17 Nov. 2018 (Sat.)
 - 時間: 開始 13:00 - 終了 18:00
-- 会場: Upgrade English in Kanda (or larger space)
+- 会場: Upgrade English in Kanda (東京都中央区日本橋本石町4-5-5)
 - モデレーター: Alex McLean
 
 
 [Live coding workshop for women/non-binary in Tokyo 23 Wards]
 - 日付: 17 Nov. 2018 (Sat.)
 - 時間: 開始 13:00 - 終了 18:00
-- 会場: 朝日新聞メディアラボ
+- 会場: 朝日新聞メディアラボ(東京都渋谷区 神宮前6-19−21)
 
 
 [Algorave Tokyo x NxPC.Lab (IAMAS)]

@@ -9,14 +9,14 @@
 [Advanced TidalCycles workshop Osaka]
 - date: 11 Nov. 2018 (Sun.)
 - time: 13:00 - 18:00
-- venule: not fixed
+- venule: environment 0g
 - run by Alex McLean and others
 
 
 [Woman's workshop Osaka]
 - date: 11 Nov. 2018 (Sun.)
 - time: 13:00 - 18:00
-- venule: not fixed
+- venule: STARRYWORKS inc.
 - run by Joanne Armitage / Lucy Cheeseman / okachiho
 
 
