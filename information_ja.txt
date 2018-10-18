@@ -1,6 +1,6 @@
 ~ 序文 ~
 
-Algorave の創始者でありライブコーディングのためのソフトウエア TidalCycles の作者である Alex McLean らを UK Sheffield より迎え、大阪・東京でワークショップおよびライブイベントを開催いたします。
+Algorave の創始者でありライブコーディングのためのソフトウエア TidalCycles の作者である Alex McLean らを UK ヨークシャーより迎え、大阪・東京でワークショップおよびライブイベントを開催いたします。
 今回は女性のみのワークショップ（Woman's workshop）、多摩美術大学と札幌の SIAFラボ をオンラインで結んだライブコーディングサミット(Tokyo Live Coding Summit) や Alex McLean 作者本人による TidalCycles のアドバンスドワークショップ(Advanced TidalCycles Workshop at Tokyo 23 Words) など濃い内容でお送りいたします。
 近年盛り上がりを見せるライブコーディングシーンの核心に触れられる良い機会となりそうですので、是非いずれのイベントにも足をお運び頂きますようお願いいたします。
 
