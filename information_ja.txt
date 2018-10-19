@@ -15,21 +15,21 @@ Algorave の創始者でありライブコーディングのためのソフト�
 
 
 [Advanced TidalCycles workshop Osaka]
-- 日付: 2018年 11/11(日)
+- 日付: 2018年 11/11 (日)
 - 時間: 開始 13:00 - 終了 18:00
 - 会場: environment 0g (大阪市西区南堀江3-6-1 西大阪ビルB1F) 
 - モデレーター: Alex McLean その他
 
 
 [Woman's workshop Osaka]
-- 日付: 2018年 11/11(日)
+- 日付: 2018年 11/11 (日)
 - 時間: 開始 13:00 - 終了 18:00
 - 会場: STARRYWORKS inc. (大阪市中央区谷町4-3-7)
 - モデレーター: Joanne Armitage / Lucy Cheeseman / okachiho
 
 
 [Concert at environment 0g]
-- 日付: 2018年 11/11(日)
+- 日付: 2018年 11/11 (日)
 - 時間: open 19:30, start 20:00 - close 23:00
 - 会場: environment 0g
 
@@ -37,21 +37,21 @@ Algorave の創始者でありライブコーディングのためのソフト�
 ~ Tokyo TOPLAP/Algorave/Tidal events ~
 
 [Live coding workshop for women/non-binary at Tokyo Tama Art Uni. #1]
-- 日付: 2018年 11/14(水)
+- 日付: 2018年 11/14 (水)
 - 時間: 開始 13:00 - 終了 16:00
 - 会場: 多摩美術大学 (八王子キャンパス 情報デザイン棟 25-205教室, 東京都八王子市鑓水2-1723) 
 - モデレーター: Joanne Armitage / Lucy Cheeseman / okachiho
 
 
 [Workshop at Tokyo Tama Art Uni. #2]
-- 日付: 2018年 11/15(木)
+- 日付: 2018年 11/15 (木)
 - 時間: 開始 13:00 - 終了 16:00
 - 会場: 多摩美術大学 (八王子キャンパス 情報デザイン棟 25-205教室)
 - モデレーター: Alex McLean その他
 
 
 [Sapporo - Tokyo Live Coding Summit]
-- 日付: 2018年 11/15(木)
+- 日付: 2018年 11/15 (木)
 - 時間: 開始 18:00 - 終了 19:30
 - 会場(東京): 多摩美術大学 (八王子キャンパス 情報デザイン棟 25-205教室)
 - 会場(札幌): テラス計画 (札幌市中央区北2条西4丁目1番地 札幌三井JPビルディング内 赤れんが テラス5F)
