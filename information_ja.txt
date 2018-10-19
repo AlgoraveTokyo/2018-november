@@ -44,14 +44,14 @@ Algorave の創始者でありライブコーディングのためのソフト�
 
 
 [Workshop at Tokyo Tama Art Uni. #2]
-- 日付: 2018年 11/14(木)
+- 日付: 2018年 11/15(木)
 - 時間: 開始 13:00 - 終了 16:00
 - 会場: 多摩美術大学 (八王子キャンパス 情報デザイン棟 25-205教室)
 - モデレーター: Alex McLean その他
 
 
 [Sapporo - Tokyo Live Coding Summit]
-- 日付: 2018年 11/14(木)
+- 日付: 2018年 11/15(木)
 - 時間: 開始 18:00 - 終了 19:30
 - 会場(東京): 多摩美術大学 (八王子キャンパス 情報デザイン棟 25-205教室)
 - 会場(札幌): テラス計画 (札幌市中央区北2条西4丁目1番地 札幌三井JPビルディング内 赤れんが テラス5F)
@@ -59,20 +59,20 @@ Algorave の創始者でありライブコーディングのためのソフト�
 
 
 [Advanced TidalCycles Workshop at Tokyo 23 Words]
-- 日付: 17 Nov. 2018 (土)
+- 日付: 2018年 11/17 (土)
 - 時間: 開始 13:00 - 終了 18:00
 - 会場: Upgrade English 神田 (東京都中央区日本橋本石町4-5-5 8F)
 - モデレーター: Alex McLean
 
 
 [Live coding workshop for women/non-binary in Tokyo 23 Wards]
-- 日付: 17 Nov. 2018 (土)
+- 日付: 2018年 11/17 (土)
 - 時間: 開始 13:00 - 終了 18:00
 - 会場: 朝日新聞メディアラボ(東京都渋谷区 神宮前6-19−21)
 
 
 [Algorave Tokyo x NxPC.Lab (IAMAS)]
-- 日付: 18 Nov. 2018 (日)
+- 日付:  2018年 11/18 (日)
 - 時間: open 18:00 - close 23:00
 - 会場: Circus Tokyo (http://circus-tokyo.jp)
 - チケット: 前売り \2000 +1D / 当日 \2500 +1D / U25割引 \1500 +1D
