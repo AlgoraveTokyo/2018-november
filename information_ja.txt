@@ -14,7 +14,7 @@ Algorave の創始者でありライブコーディングのためのソフト�
 - チケット: 前売り \1500 +1D / 当日 \2000 +1D / U25割引 \1000 +1D
 
 
-[Advanced TidalCycles workshop Osaka]
+[TidalCycles workshop Osaka]
 - 日付: 2018年 11/11 (日)
 - 時間: 開始 13:00 - 終了 18:00
 - 会場: environment 0g (大阪市西区南堀江3-6-1 西大阪ビルB1F) 
