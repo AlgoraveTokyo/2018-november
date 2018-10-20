@@ -1,7 +1,7 @@
 ~ 序文 ~
 
 Algorave の創始者でありライブコーディングのためのソフトウエア TidalCycles の作者である Alex McLean らを UK ヨークシャーより迎え、大阪・東京でワークショップおよびライブイベントを開催いたします。
-今回は女性のみのワークショップ（Woman's workshop）、多摩美術大学と札幌の SIAFラボ をオンラインで結んだライブコーディングサミット(Tokyo Live Coding Summit) や Alex McLean 作者本人による TidalCycles のアドバンスドワークショップ(Advanced TidalCycles Workshop at Tokyo 23 Words) など濃い内容でお送りいたします。
+今回は女性のみのワークショップ（Womens' workshop）、多摩美術大学と札幌の SIAFラボ をオンラインで結んだライブコーディングサミット(Tokyo Live Coding Summit) や Alex McLean 作者本人による TidalCycles のアドバンスドワークショップ(Advanced TidalCycles workshop in Tokyo 23 Wards) など濃い内容でお送りいたします。
 近年盛り上がりを見せるライブコーディングシーンの核心に触れられる良い機会となりそうですので、是非いずれのイベントにも足をお運び頂きますようお願いいたします。
 
 
@@ -30,7 +30,6 @@ Algorave の創始者でありライブコーディングのためのソフト�
 
 [Concert at environment 0g]
 - 日付: 2018年 11/11 (日)
-- 時間: open 19:30, start 20:00 - close 23:00
 - 会場: environment 0g
 
 
@@ -71,7 +70,7 @@ Algorave の創始者でありライブコーディングのためのソフト�
 - 会場: 朝日新聞メディアラボ（東京都渋谷区 神宮前6-19−21)
 
 
-[Algorave Tokyo x NxPC.Lab (IAMAS)]
+[Algorave Tokyo × NxPC.Lab (IAMAS)]
 - 日付: 2018年 11/18 (日)
 - 時間: open 18:00 - close 23:00
 - 会場: Circus Tokyo (http://circus-tokyo.jp)
